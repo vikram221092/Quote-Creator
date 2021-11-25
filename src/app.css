@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+} 
+
+.app{
+   margin-left: 550px;
+   margin-top: 60px;
+   width: 600px;
+}
+
+h1{
+   margin-bottom: 40px;
+   font-size: 40px;
+}
+h2{
+   margin: 20px;
+}
